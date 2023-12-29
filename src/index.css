@@ -1,0 +1,9 @@
+.selects {
+    display: flex;
+    gap: 5px;
+  }
+  
+  select {
+    display: block;
+    margin: 10px 0;
+  }
